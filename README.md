@@ -12,7 +12,7 @@ Most of the early portions of the class are worksheet based, but the later porti
   <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet6GenerativeModels2.pdf)</li>
   <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet5Generative_models_1.pdf)</li>
   <li>[Random variable, expectation, and variance](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet4Random_variable_expectation_and_variance.pdf)</li>
-  <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet3_Multiple_events_%20conditioning_and_independence.pdf)</li>
-  <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet2_Probability_spaces.pdf)</li>
-  <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet1_Sets_and_counting.pdf)</li>
+  <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet3_Multiple_events_%20conditioning_and_independence.pdf) (1,2,3,5,6,10,15a,16)</li>
+  <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet2_Probability_spaces.pdf) (1a,1b,1e,2,3,4a,5,6,7,14,16)</li>
+  <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet1_Sets_and_counting.pdf) (1,2,3,4,5,6)</li>
 
