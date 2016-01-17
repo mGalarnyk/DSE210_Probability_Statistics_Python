@@ -1,6 +1,6 @@
 # DSE210_Probability_Statistics_Python
 Not done! In progress class
-Probability and Statistics Using Python: Data Science Masters Course (DSE 210)
+Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
 Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
