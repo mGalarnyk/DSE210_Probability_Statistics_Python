@@ -3,7 +3,12 @@ Not done! In progress class
 Probability and Statistics Using Python: Data Science Masters Course (DSE 210)
 Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
 
-## Assignments (From Newest to Oldest) 
+## IPython Notebooks for Assignments (From Newest to Oldest) 
+  <li>[Multiple events, conditioning, and independence (in progress)](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/3_Multiple_events_%20conditioning_and_independence.ipynb) (1,2,3,5,6,10,15a,16)</li>
+  <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/2_Probability_spaces.ipynb) (1a,1b,1e,2,3,4a,5,6,7,14,16)</li>
+  <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/1_Sets_and_Counting_mGalarnyk.ipynb) (1,2,3,4,5,6)</li>
+
+## Worksheets (From Newest to Oldest) 
 
   <li>[Hypothesis testing](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet10Hypothesis_testing.pdf)</li>
   <li>[Sampling](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet9Sampling.pdf)</li>
@@ -15,4 +20,3 @@ Most of the early portions of the class are worksheet based, but the later porti
   <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet3_Multiple_events_%20conditioning_and_independence.pdf) (1,2,3,5,6,10,15a,16)</li>
   <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet2_Probability_spaces.pdf) (1a,1b,1e,2,3,4a,5,6,7,14,16)</li>
   <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet1_Sets_and_counting.pdf) (1,2,3,4,5,6)</li>
-
