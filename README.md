@@ -4,7 +4,6 @@ Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
 Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
-  <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/4_RandomVariable_Expectation_Variance.ipynb) (1,2,3,6,7a,7c,8,12)</li>
   <li>[Random variable, expectation, and variance](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/4_RandomVariable_Expectation_Variance.ipynb) (1,2,3,6,7a,7c,8,12)</li>
   <li>[Multiple events, conditioning, and independence (in progress)](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/3_Multiple_events_%20conditioning_and_independence.ipynb) (1,2,3,5,6,10,15a,16)</li>
   <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/2_Probability_spaces.ipynb) (1a,1b,1e,2,3,4a,5,6,7,14,16)</li>
