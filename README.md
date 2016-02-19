@@ -4,6 +4,7 @@ Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
 Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
+ <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/6_Generative_Models_number_9-FINAL.ipynb) Gaussian Classifier </li>
  <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/5_Generative_Models_I_Class_Generators.ipynb) (object oriented, next up is pandas and sql)</li>
   <li>[Random variable, expectation, and variance](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/4_RandomVariable_Expectation_Variance.ipynb) (1,2,3,6,7a,7c,8,12)</li>
   <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/3_Multiple_events_%20conditioning_and_independence.ipynb) (1,2,3,5,6,10,15a,16)</li>
@@ -16,7 +17,7 @@ Most of the early portions of the class are worksheet based, but the later porti
   <li>[Sampling](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet9Sampling.pdf)</li>
   <li>[Matrix factorization](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet8Matrix_factorization.pdf)</li>
   <li>[Clustering](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet7Clustering.pdf)</li>
-  <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet6GenerativeModels2.pdf)</li>
+  <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet6GenerativeModels2.pdf) (#9 python based Gaussian Classifier</li>
   <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet5Generative_models_1.pdf) (all)</li>
   <li>[Random variable, expectation, and variance](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet4Random_variable_expectation_and_variance.pdf) (1,2,3,6,7a,7c,8,12)</li>
   <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet3_Multiple_events_%20conditioning_and_independence.pdf) (1,2,3,5,6,10,15a,16)</li>
