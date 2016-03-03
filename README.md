@@ -17,7 +17,7 @@ Most of the early portions of the class are worksheet based, but the later porti
 
   <li>[Hypothesis testing](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet10Hypothesis_testing.pdf)</li>
   <li>[Sampling](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet9Sampling.pdf)</li>
-  <li>[Matrix factorization](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet8Matrix_factorization.pdf)</li>
+  <li>[Matrix factorization](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet8Matrix_factorization.pdf) (1,2,3,4,5)</li>
   <li>[Clustering](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet7Clustering.pdf) (all)</li>
   <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet6GenerativeModels2.pdf) (#9 python based Gaussian Classifier)</li>
   <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet5Generative_models_1.pdf) (all)</li>
