@@ -4,6 +4,8 @@ Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
 Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
+
+ <li>[Clustering](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/7_Clustering.ipynb)</li>
  <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/6_Generative_Models_number_9-FINAL.ipynb) Gaussian Classifier </li>
  <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/5_Generative_Models_I_Class_Generators.ipynb) (object oriented, next up is pandas and sql)</li>
   <li>[Random variable, expectation, and variance](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/4_RandomVariable_Expectation_Variance.ipynb) (1,2,3,6,7a,7c,8,12)</li>
