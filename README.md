@@ -1,10 +1,12 @@
 # DSE210_Probability_Statistics_Python
-Not done! In progress class
+Not done! In progress class. Looks best on google chrome. 
 Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
-Most of the early portions of the class are worksheet based, but the later portions are mostly ipython notebook.
+Most of the early portions of the class are worksheet based, but the later portions are mostly in ipython notebook (numpy, sklearn, pandas).
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
 
+  <li>[Hypothesis testing](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/10_Hypothesis_Testing.ipynb) (1, 2, 6, 7, 8, 9, 10, 12) </li>
+  <li>[Matrix factorization](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/8_Matrix_Factorization.ipynb) # 1,2,3,4 (PCA Projection, python),5 (PCA Projection, python) </li>
  <li>[Clustering](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/7_Clustering.ipynb)</li>
  <li>[Generative models 2](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/6_Generative_Models_number_9-FINAL.ipynb) Gaussian Classifier </li>
  <li>[Generative models 1](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/5_Generative_Models_I_Class_Generators.ipynb) (object oriented, next up is pandas and sql)</li>
@@ -15,7 +17,7 @@ Most of the early portions of the class are worksheet based, but the later porti
 
 ## Worksheets (From Newest to Oldest) 
 
-  <li>[Hypothesis testing](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet10Hypothesis_testing.pdf)</li>
+  <li>[Hypothesis testing](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet10Hypothesis_testing.pdf) (1, 2, 6, 7, 8, 9, 10, 12) </li>
   <li>[Sampling](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet9Sampling.pdf)</li>
   <li>[Matrix factorization](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet8Matrix_factorization.pdf) (1,2,3,4,5)</li>
   <li>[Clustering](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet7Clustering.pdf) (all)</li>
