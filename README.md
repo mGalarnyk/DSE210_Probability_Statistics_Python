@@ -28,3 +28,7 @@ Most of the early portions of the class are worksheet based, but the later porti
   <li>[Multiple events, conditioning, and independence](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet3_Multiple_events_%20conditioning_and_independence.pdf) (1,2,3,5,6,10,15a,16)</li>
   <li>[Probability spaces](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet2_Probability_spaces.pdf) (1a,1b,1e,2,3,4a,5,6,7,14,16)</li>
   <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet1_Sets_and_counting.pdf) (1,2,3,4,5,6)</li>
+
+## Other (Iris Dataset plus other scratch worksheet)
+  <li>[Iris Dataset](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/IRIS%20data%20set.ipynb) </li>
+<li>[Scratch stats problems](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/Other_worksheet.pdf) </li>
