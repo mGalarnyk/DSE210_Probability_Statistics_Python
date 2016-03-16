@@ -1,7 +1,7 @@
 # DSE210_Probability_Statistics_Python
 Looks best on google chrome. 
 Probability and Statistics Using Python: Data Science Masters Course (DSE 210).
-Highly similar to UCSD's "CSE 250B. Principles of Artificial Intelligence: Learning Algorithms" course
+Highly similar to UCSD's "CSE 250B. Principles of Artificial Intelligence: Learning Algorithms" course.
 Most of the early portions of the class are worksheet based, but the later portions are mostly in ipython notebook (numpy, sklearn, pandas).
 
 ## IPython Notebooks for Assignments (From Newest to Oldest) 
