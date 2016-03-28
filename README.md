@@ -31,5 +31,7 @@ Most of the early portions of the class are worksheet based, but the later porti
   <li>[Sets and counting](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/worksheets/worksheet1_Sets_and_counting.pdf) (1,2,3,4,5,6)</li>
 
 ## Other (Iris Dataset plus other scratch worksheet)
+<li>[K-Means, PCA, and Dendrogram on the Animals with Attributes Dataset](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/K-Means%2C%20PCA%2C%20and%20Dendrogram%20on%20the%20Animals%20with%20Attributes%20Dataset.ipynb) </li>
+<img src="images/animals_attributes.png">
   <li>[Iris Dataset](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/IRIS%20data%20set.ipynb) </li>
 <li>[Scratch stats problems](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python/blob/master/Other_worksheet.pdf) </li>
